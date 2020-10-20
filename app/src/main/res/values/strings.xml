@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LetsConference</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="lets_call_app">Lets Call App</string>
+    <string name="sign_in_to_your_account">Sign In To Your Account</string>
+    <string name="email">Email</string>
+    <string name="you_example_com">you@example.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">• • • • • •</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up1">Sign Up</string>
+
+    <string name="we_need_few_details_to_get_your_account_ready">we need few details to get your account ready</string>
+    <string name="first_name">First Name</string>
+    <string name="john">John</string>
+    <string name="last_name">Last Name</string>
+    <string name="doe">Doe</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already Have An Account ?</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+    <string name="lets_conference_app">Lets Conference App</string>
+</resources>
